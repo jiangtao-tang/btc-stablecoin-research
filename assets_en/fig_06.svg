@@ -1,0 +1,18 @@
+<svg role="img" viewBox="0 0 680 280" width="100%" xmlns="http://www.w3.org/2000/svg">
+<title>Orthogonality of Algorithmic Scarcity and the Physical Layer</title>
+<text fill="#0c447c" font-size="15" font-weight="500" text-anchor="middle" x="340" y="24">Orthogonality of Algorithmic Scarcity and the Physical Layer</text>
+<rect fill="#e6f1fb" height="190" rx="10" stroke="#185fa5" stroke-width="0.5" width="290" x="40" y="50"></rect>
+<text fill="#0c447c" font-size="14" font-weight="500" text-anchor="middle" x="185" y="78">Physical layer (unchangeable)</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="110">η(t) Logistic growth</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="135">π(t) = λ(1−η/η_L)</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="160">Landauer convergence</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="185">Three-stage evolution</text>
+<rect fill="#fae7d6" height="190" rx="10" stroke="#993c1d" stroke-width="0.5" width="290" x="350" y="50"></rect>
+<text fill="#712b13" font-size="14" font-weight="500" text-anchor="middle" x="495" y="78">Mapping / institutional layer (artificial)</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="110">Choosing bit or joule standard</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="135">BTC 21M cap</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="160">Minting-period supply-growth schedule</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="185">Forcibly locks the joule side</text>
+<path d="M330 145 L350 145" stroke="#888780" stroke-dasharray="5 4" stroke-width="1"></path>
+<text fill="#5f5e5a" font-size="12" text-anchor="middle" x="340" y="258">The cap only changes the institutional layer, not the physical layer; it delays deflation during the minting period and coincides with the pure joule standard after minting completes</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg role="img" viewBox="0 0 680 340" width="100%" xmlns="http://www.w3.org/2000/svg">
+<title>生产成本的三重自由能结构</title>
+<desc>运行能耗、硬件制造能耗、人工代谢能耗三种自由能消耗汇入总生产成本，再除以产出去得焦耳地板</desc>
+<defs>
+<marker id="d2_arrow" markerheight="6" markerwidth="6" orient="auto-start-reverse" refx="8" refy="5" viewBox="0 0 10 10">
+<path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+</marker>
+</defs>
+<text fill="#0c447c" font-size="14" font-weight="500" text-anchor="middle" x="340" y="26">生产成本 = 三重自由能消耗之和</text>
+<rect fill="#e6f1fb" height="58" rx="8" stroke="#185fa5" stroke-width="0.5" width="180" x="40" y="70"></rect>
+<text fill="#0c447c" font-size="13" font-weight="500" text-anchor="middle" x="130" y="94">E_run 运行能耗</text>
+<text fill="#5f5e5a" font-size="12" text-anchor="middle" x="130" y="114">流式 / OPEX</text>
+<rect fill="#e1f5ee" height="58" rx="8" stroke="#0f6e56" stroke-width="0.5" width="180" x="250" y="70"></rect>
+<text fill="#0f6e56" font-size="13" font-weight="500" text-anchor="middle" x="340" y="94">E_embodied 硬件</text>
+<text fill="#5f5e5a" font-size="12" text-anchor="middle" x="340" y="114">制造能耗 / 摊薄</text>
+<rect fill="#faeada" height="58" rx="8" stroke="#ba7517" stroke-width="0.5" width="180" x="460" y="70"></rect>
+<text fill="#854f0b" font-size="13" font-weight="500" text-anchor="middle" x="550" y="94">E_labor 人工</text>
+<text fill="#5f5e5a" font-size="12" text-anchor="middle" x="550" y="114">生物代谢 / 流式</text>
+<path d="M130 128 L130 168 L300 168 L300 198" fill="none" marker-end="url(#d2_arrow)" stroke="#888780" stroke-width="1.5"></path>
+<path d="M340 128 L340 198" fill="none" marker-end="url(#d2_arrow)" stroke="#888780" stroke-width="1.5"></path>
+<path d="M550 128 L550 168 L380 168 L380 198" fill="none" marker-end="url(#d2_arrow)" stroke="#888780" stroke-width="1.5"></path>
+<rect fill="#f1efe8" height="56" rx="8" stroke="#5f5e5a" stroke-width="0.5" width="320" x="180" y="200"></rect>
+<text fill="#444441" font-size="13" font-weight="500" text-anchor="middle" x="340" y="224">总生产成本 C_total (焦耳)</text>
+<text fill="#5f5e5a" font-size="12" text-anchor="middle" x="340" y="244">= E_run + E_embodied_annual + E_labor</text>
+<path d="M340 256 L340 288" fill="none" marker-end="url(#d2_arrow)" stroke="#185fa5" stroke-width="1.5"></path>
+<text fill="#185fa5" font-size="12" x="352" y="278">÷ 产出 N 或 W</text>
+<rect fill="#fcebeb" height="40" rx="8" stroke="#a32d2d" stroke-width="0.5" width="240" x="220" y="290"></rect>
+<text fill="#712b13" font-size="13" font-weight="500" text-anchor="middle" x="340" y="314">P_floor = C_total / N</text>
+</svg>

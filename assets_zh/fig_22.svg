@@ -1,0 +1,31 @@
+<svg viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg">
+<text fill="#0c447c" font-size="15" font-weight="600" text-anchor="middle" x="340" y="24">BTC 作为能量活化石：石油类比</text>
+<!-- Oil path (top) -->
+<text fill="#791f1f" font-size="13" font-weight="600" x="60" y="60">石油（自然过程）</text>
+<rect fill="#fff3cd" height="40" rx="6" stroke="#d39e00" stroke-width="1.2" width="120" x="40" y="70"></rect>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="100" y="95">太阳能</text>
+<line marker-end="url(#d3_arr0)" stroke="#791f1f" stroke-width="1.5" x1="160" x2="200" y1="90" y2="90"></line>
+<rect fill="#fff3cd" height="40" rx="6" stroke="#d39e00" stroke-width="1.2" width="140" x="200" y="70"></rect>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="270" y="95">光合作用 + 地质埋藏</text>
+<line marker-end="url(#d3_arr0)" stroke="#791f1f" stroke-width="1.5" x1="340" x2="380" y1="90" y2="90"></line>
+<rect fill="#e6f1fb" height="40" rx="6" stroke="#185fa5" stroke-width="1.2" width="140" x="380" y="70"></rect>
+<text fill="#0c447c" font-size="11" font-weight="600" text-anchor="middle" x="450" y="95">原油（≈45 MJ/kg）</text>
+<line marker-end="url(#d3_arr0)" stroke="#791f1f" stroke-width="1.5" x1="520" x2="560" y1="90" y2="90"></line>
+<rect fill="#eaf3de" height="40" rx="6" stroke="#3b6d11" stroke-width="1.2" width="100" x="560" y="70"></rect>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="610" y="95">汽油（液化）</text>
+<!-- BTC path (bottom) -->
+<text fill="#27500a" font-size="13" font-weight="600" x="60" y="170">BTC（人工过程）</text>
+<rect fill="#fff3cd" height="40" rx="6" stroke="#d39e00" stroke-width="1.2" width="120" x="40" y="180"></rect>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="100" y="205">电能</text>
+<line marker-end="url(#d3_arr0)" stroke="#3b6d11" stroke-width="1.5" x1="160" x2="200" y1="200" y2="200"></line>
+<rect fill="#fff3cd" height="40" rx="6" stroke="#d39e00" stroke-width="1.2" width="140" x="200" y="180"></rect>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="270" y="205">哈希运算 + PoW 共识</text>
+<line marker-end="url(#d3_arr0)" stroke="#3b6d11" stroke-width="1.5" x1="340" x2="380" y1="200" y2="200"></line>
+<rect fill="#e6f1fb" height="40" rx="6" stroke="#185fa5" stroke-width="1.2" width="140" x="380" y="180"></rect>
+<text fill="#0c447c" font-size="11" font-weight="600" text-anchor="middle" x="450" y="205">BTC（≈P_floor J/BTC）</text>
+<line marker-end="url(#d3_arr0)" stroke="#3b6d11" stroke-width="1.5" x1="520" x2="560" y1="200" y2="200"></line>
+<rect fill="#eaf3de" height="40" rx="6" stroke="#3b6d11" stroke-width="1.2" width="100" x="560" y="180"></rect>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="610" y="205">J-ST（液化）</text>
+<!-- Bottom common nature -->
+<text fill="#5f5e5a" font-size="12" font-style="italic" text-anchor="middle" x="340" y="258">两者都是不可逆自由能做功的浓缩残留物——能量凝固为持久形态</text>
+</svg>

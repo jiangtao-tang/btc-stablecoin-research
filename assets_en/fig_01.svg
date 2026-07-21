@@ -1,0 +1,35 @@
+<svg viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="d1_arr1" markerheight="8" markerwidth="8" orient="auto" refx="6" refy="4">
+<path d="M0,0 L8,4 L0,8 z" fill="#2c5f7c"></path>
+</marker>
+<marker id="d1_arr2" markerheight="8" markerwidth="8" orient="auto" refx="6" refy="4">
+<path d="M0,0 L8,4 L0,8 z" fill="#d68910"></path>
+</marker>
+</defs>
+<!-- H node -->
+<circle cx="170" cy="140" fill="#e8f0f5" r="50" stroke="#2c5f7c" stroke-width="2.5"></circle>
+<text fill="#2c5f7c" font-family="sans-serif" font-size="22" font-weight="bold" text-anchor="middle" x="170" y="135">H</text>
+<text fill="#555" font-family="sans-serif" font-size="12" text-anchor="middle" x="170" y="155">Human</text>
+<!-- A node -->
+<circle cx="510" cy="140" fill="#fef9e7" r="50" stroke="#d68910" stroke-width="2.5"></circle>
+<text fill="#d68910" font-family="sans-serif" font-size="22" font-weight="bold" text-anchor="middle" x="510" y="135">A</text>
+<text fill="#555" font-family="sans-serif" font-size="12" text-anchor="middle" x="510" y="155">Agent</text>
+<!-- H<->H loop -->
+<path d="M 120 100 Q 80 60 120 40 Q 220 30 220 100" fill="none" marker-end="url(#d1_arr1)" stroke="#2c5f7c" stroke-width="2"></path>
+<text fill="#2c5f7c" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle" x="170" y="25">H↔H</text>
+<!-- A<->A loop -->
+<path d="M 560 100 Q 600 60 560 40 Q 460 30 460 100" fill="none" marker-end="url(#d1_arr2)" stroke="#d68910" stroke-width="2"></path>
+<text fill="#d68910" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle" x="510" y="25">A↔A</text>
+<!-- H<->A -->
+<line marker-end="url(#d1_arr1)" marker-start="url(#d1_arr1)" stroke="#2d8659" stroke-width="3" x1="220" x2="460" y1="140" y2="140"></line>
+<text fill="#2d8659" font-family="sans-serif" font-size="14" font-weight="bold" text-anchor="middle" x="340" y="128">H↔A</text>
+<text fill="#2d8659" font-family="sans-serif" font-size="11" text-anchor="middle" x="340" y="162">Key interface</text>
+<!-- Bottom labels -->
+<text fill="#555" font-family="sans-serif" font-size="11" text-anchor="middle" x="170" y="225">Surface currency: fiat / credit</text>
+<text fill="#555" font-family="sans-serif" font-size="11" text-anchor="middle" x="170" y="242">Foundation: social convention</text>
+<text fill="#555" font-family="sans-serif" font-size="11" text-anchor="middle" x="340" y="225">Surface currency: ?</text>
+<text fill="#2d8659" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle" x="340" y="242">Foundation: free energy (unified)</text>
+<text fill="#555" font-family="sans-serif" font-size="11" text-anchor="middle" x="510" y="225">Surface currency: computational work</text>
+<text fill="#555" font-family="sans-serif" font-size="11" text-anchor="middle" x="510" y="242">Foundation: Landauer + P≠NP</text>
+</svg>

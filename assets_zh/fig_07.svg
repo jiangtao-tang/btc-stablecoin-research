@@ -1,0 +1,16 @@
+<svg role="img" viewBox="0 0 680 180" width="100%" xmlns="http://www.w3.org/2000/svg">
+<title>BTC 当前价的三层分解</title>
+<text fill="#0c447c" font-size="15" font-weight="500" text-anchor="middle" x="340" y="22">BTC 当前价的三层分解</text>
+<rect fill="#eaf3de" height="100" rx="8" stroke="#3b6d11" stroke-width="0.5" width="190" x="40" y="40"></rect>
+<text fill="#27500a" font-size="13" font-weight="500" text-anchor="middle" x="135" y="68">① 物理地板</text>
+<text fill="#444441" font-size="11" text-anchor="middle" x="135" y="92">挖矿能耗/币</text>
+<text fill="#3b6d11" font-size="11" text-anchor="middle" x="135" y="114">客观 · 物理必然</text>
+<rect fill="#fae7d6" height="100" rx="8" stroke="#993c1d" stroke-width="0.5" width="190" x="245" y="40"></rect>
+<text fill="#712b13" font-size="13" font-weight="500" text-anchor="middle" x="340" y="68">② 碳基价值再配置</text>
+<text fill="#444441" font-size="11" text-anchor="middle" x="340" y="92">人类经济自由能</text>
+<text fill="#712b13" font-size="11" text-anchor="middle" x="340" y="114">客观 · 社会中介 · 滞后</text>
+<rect fill="#fbeaf0" height="100" rx="8" stroke="#d4537e" stroke-width="0.5" width="190" x="450" y="40"></rect>
+<text fill="#993556" font-size="13" font-weight="500" text-anchor="middle" x="545" y="68">③ 投机/叙事溢价</text>
+<text fill="#444441" font-size="11" text-anchor="middle" x="545" y="92">情绪、预期、流动性</text>
+<text fill="#d4537e" font-size="11" text-anchor="middle" x="545" y="114">瞬时可归零</text>
+</svg>

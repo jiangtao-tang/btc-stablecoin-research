@@ -1,0 +1,43 @@
+<svg role="img" viewBox="0 0 680 392" width="100%" xmlns="http://www.w3.org/2000/svg">
+<title>空窗期系统性高估的两种解法</title>
+<defs>
+<marker id="d2_arrowvac1" markerheight="6" markerwidth="6" orient="auto-start-reverse" refx="8" refy="5" viewBox="0 0 10 10">
+<path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+</marker>
+</defs>
+<text fill="#0c447c" font-size="15" font-weight="500" text-anchor="middle" x="340" y="26">空窗期系统性高估的两种解法</text>
+<rect fill="#faeeda" height="56" rx="8" stroke="#ba7517" stroke-width="1.2" width="360" x="160" y="44"></rect>
+<text fill="#633806" font-size="12.5" text-anchor="middle" x="340" y="68">空窗期：BTC价 = 物理地板 + 碳基价值 + 投机溢价</text>
+<text fill="#633806" font-size="12" text-anchor="middle" x="340" y="88">agent 用 USD 市场价 → 被动接受系统性偏高</text>
+<line marker-end="url(#d2_arrowvac1)" stroke="#5f5e5a" stroke-width="1.2" x1="340" x2="340" y1="100" y2="126"></line>
+<line stroke="#5f5e5a" stroke-width="1.2" x1="170" x2="510" y1="126" y2="126"></line>
+<text fill="#444441" font-size="11" text-anchor="middle" x="170" y="120">方案1</text>
+<text fill="#444441" font-size="11" text-anchor="middle" x="510" y="120">方案2</text>
+<rect fill="#e6f1fb" height="40" rx="7" stroke="#185fa5" stroke-width="1.2" width="240" x="50" y="136"></rect>
+<text fill="#0c447c" font-size="12.5" text-anchor="middle" x="170" y="160">锚定 BTC 稳定币</text>
+<rect fill="#fcebeb" height="50" rx="7" stroke="#a32d2d" stroke-width="1" width="240" x="50" y="194"></rect>
+<text fill="#791f1f" font-size="12" x="64" y="216">A1 锚市场价</text>
+<text fill="#791f1f" font-size="11" x="64" y="235">仅平滑波动，高估仍在（治标）</text>
+<rect fill="#eaf3de" height="50" rx="7" stroke="#3b6d11" stroke-width="1" width="240" x="50" y="260"></rect>
+<text fill="#27500a" font-size="12" x="64" y="282">A2 锚地板价</text>
+<text fill="#27500a" font-size="11" x="64" y="301">等价于方案2（治本）</text>
+<rect fill="#e6f1fb" height="40" rx="7" stroke="#185fa5" stroke-width="1.2" width="240" x="390" y="136"></rect>
+<text fill="#0c447c" font-size="12.5" text-anchor="middle" x="510" y="160">算物理地板 + 焦耳计价</text>
+<rect fill="#eaf3de" height="116" rx="7" stroke="#3b6d11" stroke-width="1" width="240" x="390" y="194"></rect>
+<text fill="#27500a" font-size="11.5" x="404" y="218">P_floor = 年全网PoW能耗 / 年新增币量</text>
+<text fill="#27500a" font-size="11.5" x="404" y="240">BTC/焦耳 = 1 / P_floor</text>
+<text fill="#27500a" font-size="11" x="404" y="264">→ 直接暴露高估并消除</text>
+<text fill="#27500a" font-size="11" x="404" y="286">→ 套利建立物质基础</text>
+<text fill="#27500a" font-size="11" x="404" y="304">→ 重定基回物理单位（治本）</text>
+<line marker-end="url(#d2_arrowvac1)" stroke="#a32d2d" stroke-width="1.2" x1="170" x2="170" y1="176" y2="194"></line>
+<line marker-end="url(#d2_arrowvac1)" stroke="#3b6d11" stroke-width="1.2" x1="170" x2="170" y1="244" y2="260"></line>
+<line marker-end="url(#d2_arrowvac1)" stroke="#185fa5" stroke-width="1.2" x1="170" x2="170" y1="100" y2="136"></line>
+<line marker-end="url(#d2_arrowvac1)" stroke="#185fa5" stroke-width="1.2" x1="510" x2="510" y1="100" y2="136"></line>
+<line marker-end="url(#d2_arrowvac1)" stroke="#3b6d11" stroke-width="1.2" x1="510" x2="510" y1="176" y2="194"></line>
+<rect fill="#fcebeb" height="44" rx="7" stroke="#a32d2d" stroke-width="1" width="280" x="50" y="334"></rect>
+<text fill="#791f1f" font-size="12" text-anchor="middle" x="190" y="358">治标：高估被接受，仅波动下降</text>
+<text fill="#791f1f" font-size="10.5" text-anchor="middle" x="190" y="374">（A1 路径）</text>
+<rect fill="#eaf3de" height="44" rx="7" stroke="#3b6d11" stroke-width="1" width="280" x="350" y="334"></rect>
+<text fill="#27500a" font-size="12" text-anchor="middle" x="490" y="358">治本：高估被识别、套利、消除</text>
+<text fill="#27500a" font-size="10.5" text-anchor="middle" x="490" y="374">（A2 = 方案2 路径）</text>
+</svg>

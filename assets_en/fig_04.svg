@@ -1,0 +1,16 @@
+<svg role="img" viewBox="0 0 680 260" width="100%" xmlns="http://www.w3.org/2000/svg">
+<title>Metrological duality: bit standard vs. joule standard</title>
+<text fill="#0c447c" font-size="15" font-weight="500" text-anchor="middle" x="340" y="24">Metrological duality: the same physical process, two accounting faces</text>
+<rect fill="#fcebeb" height="170" rx="10" stroke="#a32d2d" stroke-width="0.5" width="290" x="40" y="50"></rect>
+<text fill="#791f1f" font-size="14" font-weight="500" text-anchor="middle" x="185" y="80">Bit standard</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="110">Currency M_B = F · η</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="140">η↑ → M_B↑</text>
+<text fill="#a32d2d" font-size="13" font-weight="500" text-anchor="middle" x="185" y="170">Inflation +π(t)</text>
+<rect fill="#eaf3de" height="170" rx="10" stroke="#3b6d11" stroke-width="0.5" width="290" x="350" y="50"></rect>
+<text fill="#27500a" font-size="14" font-weight="500" text-anchor="middle" x="495" y="80">Joule standard</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="110">Currency M_J = F</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="140">η↑ → 1 joule buys more bits</text>
+<text fill="#3b6d11" font-size="13" font-weight="500" text-anchor="middle" x="495" y="170">Deflation −π(t)</text>
+<path d="M330 135 L350 135" stroke="#888780" stroke-dasharray="5 4" stroke-width="1"></path>
+<text fill="#5f5e5a" font-size="12" text-anchor="middle" x="340" y="240">|π(t)| is the same, only the sign differs; inflation and deflation are two sides of the same coin</text>
+</svg>

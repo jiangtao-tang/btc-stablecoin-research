@@ -1,0 +1,44 @@
+<svg viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="d3_arr0" markerheight="6" markerwidth="6" orient="auto-start-reverse" refx="9" refy="5" viewBox="0 0 10 10">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#185fa5"></path>
+</marker>
+</defs>
+<text fill="#0c447c" font-size="16" font-weight="600" text-anchor="middle" x="340" y="28">论证结构：从问题到方案</text>
+<!-- Step 1: 问题 -->
+<rect fill="#fcebeb" height="80" rx="10" stroke="#a32d2d" stroke-width="1.5" width="200" x="20" y="60"></rect>
+<text fill="#791f1f" font-size="14" font-weight="600" text-anchor="middle" x="120" y="92">η 三维异质</text>
+<text fill="#791f1f" font-size="11" text-anchor="middle" x="120" y="112">时间 / agent / 设备</text>
+<text fill="#791f1f" font-size="11" text-anchor="middle" x="120" y="128">→ 焦耳稳不稳？</text>
+<!-- Step 2: 核心洞察 -->
+<rect fill="#fff3cd" height="80" rx="10" stroke="#d39e00" stroke-width="1.5" width="200" x="240" y="60"></rect>
+<text fill="#6b5400" font-size="13" font-weight="600" text-anchor="middle" x="340" y="86">分离原则</text>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="340" y="106">计价 ≠ 媒介</text>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="340" y="124">计价=焦耳（不变量）</text>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="340" y="140">媒介=任意 token</text>
+<!-- Step 3: 关键设计 -->
+<rect fill="#eaf3de" height="80" rx="10" stroke="#3b6d11" stroke-width="1.5" width="200" x="460" y="60"></rect>
+<text fill="#27500a" font-size="13" font-weight="600" text-anchor="middle" x="560" y="86">J-ST</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="560" y="106">焦耳计价</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="560" y="124">+ BTC 地板质押</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="560" y="140">+ 去中心化托管</text>
+<!-- Arrows -->
+<line marker-end="url(#d3_arr0)" stroke="#185fa5" stroke-width="1.5" x1="220" x2="240" y1="100" y2="100"></line>
+<line marker-end="url(#d3_arr0)" stroke="#185fa5" stroke-width="1.5" x1="440" x2="460" y1="100" y2="100"></line>
+<!-- Step 4: 理论重构 -->
+<rect fill="#e6f1fb" height="80" rx="10" stroke="#185fa5" stroke-width="1.5" width="200" x="130" y="180"></rect>
+<text fill="#0c447c" font-size="13" font-weight="600" text-anchor="middle" x="230" y="206">BTC 重新定位</text>
+<text fill="#0c447c" font-size="11" text-anchor="middle" x="230" y="226">热力学收据</text>
+<text fill="#0c447c" font-size="11" text-anchor="middle" x="230" y="244">= 能量活化石</text>
+<text fill="#0c447c" font-size="11" text-anchor="middle" x="230" y="260">分布式焦耳储能池</text>
+<!-- Step 5: 落地 -->
+<rect fill="#eaf3de" height="80" rx="10" stroke="#3b6d11" stroke-width="1.5" width="200" x="350" y="180"></rect>
+<text fill="#27500a" font-size="13" font-weight="600" text-anchor="middle" x="450" y="206">Phase 1 立即可行</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="450" y="226">焦耳标价</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="450" y="244">+ BTC 做非托管</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="450" y="260">无新基础设施</text>
+<!-- Arrow from 3 to 4 and 5 -->
+<line marker-end="url(#d3_arr0)" stroke="#185fa5" stroke-width="1.2" x1="490" x2="300" y1="140" y2="180"></line>
+<line marker-end="url(#d3_arr0)" stroke="#185fa5" stroke-width="1.2" x1="580" x2="500" y1="140" y2="180"></line>
+<text fill="#5f5e5a" font-size="12" font-style="italic" text-anchor="middle" x="340" y="300">图19 论证结构：从 η 异质性出发，经分离原则与 J-ST 设计，落到 BTC 重新定位与 Phase 1 实践</text>
+</svg>

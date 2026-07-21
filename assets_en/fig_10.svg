@@ -1,0 +1,21 @@
+<svg role="img" viewBox="0 0 680 380" width="100%" xmlns="http://www.w3.org/2000/svg">
+<title>The three-layer effects of A's η_A↑ and the optimal standard</title>
+<text class="t" fill="#0c447c" font-size="14" font-weight="500" text-anchor="middle" x="340" y="26">The three-layer effects of A's η_A↑ · optimal standard</text>
+<rect fill="#eaf3de" height="60" rx="10" stroke="#3b6d11" stroke-width="0.5" width="600" x="40" y="50"></rect>
+<text fill="#27500a" font-size="13" font-weight="500" x="58" y="74">① Total-output gain · Pareto-real productivity</text>
+<text fill="#444441" font-size="11" x="58" y="96">With fixed F, η_avg↑ → economy-wide bit output ↑ ≈ s_A·π_A; everyone benefits from cheaper computation, with no counterparty loss</text>
+<rect fill="#fae7d6" height="60" rx="10" stroke="#993c1d" stroke-width="0.5" width="600" x="40" y="122"></rect>
+<text fill="#712b13" font-size="13" font-weight="500" x="58" y="146">② Holder redistribution · standard externality</text>
+<text fill="#444441" font-size="11" x="58" y="168">Bit holders −s_A·π_A, joule holders +s_A·π_A, a zero-sum transfer of scale = s_A·π_A, real only when standards are heterogeneous</text>
+<rect fill="#fbe7d6" height="60" rx="10" stroke="#993c1d" stroke-width="0.5" width="600" x="40" y="194"></rect>
+<text fill="#712b13" font-size="13" font-weight="500" x="58" y="218">③ Producer competition · market structure</text>
+<text fill="#444441" font-size="11" x="58" y="240">Efficient agents' low P_A depresses the market bit price → erodes inefficient producers' minting premium; a strategic effect, not pure redistribution</text>
+<rect fill="#e6f1fb" height="74" rx="10" stroke="#185fa5" stroke-width="0.5" width="290" x="40" y="278"></rect>
+<text fill="#0c447c" font-size="13" font-weight="500" x="58" y="302">Joule standard = exogenously irrelevant</text>
+<text fill="#444441" font-size="11" x="58" y="324">M_J = F fixed, η does not enter →</text>
+<text fill="#444441" font-size="11" x="58" y="342">Zero externality, but the unit does not reflect computational efficiency</text>
+<rect fill="#fcebeb" height="74" rx="10" stroke="#a32d2d" stroke-width="0.5" width="290" x="350" y="278"></rect>
+<text fill="#791f1f" font-size="13" font-weight="500" x="368" y="302">Bit standard = carries redistribution</text>
+<text fill="#444441" font-size="11" x="368" y="324">M_B = F·η_avg expands with η →</text>
+<text fill="#444441" font-size="11" x="368" y="342">Reflects productivity, but embeds externalities</text>
+</svg>

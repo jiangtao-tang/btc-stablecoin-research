@@ -1,0 +1,21 @@
+<svg role="img" viewBox="0 0 680 380" width="100%" xmlns="http://www.w3.org/2000/svg">
+<title>A 的 η_A↑ 的三层效应与最优本币</title>
+<text class="t" fill="#0c447c" font-size="14" font-weight="500" text-anchor="middle" x="340" y="26">A 的 η_A↑ 的三层效应 · 最优本币</text>
+<rect fill="#eaf3de" height="60" rx="10" stroke="#3b6d11" stroke-width="0.5" width="600" x="40" y="50"></rect>
+<text fill="#27500a" font-size="13" font-weight="500" x="58" y="74">① 总产出增益 · Pareto 真实生产力</text>
+<text fill="#444441" font-size="11" x="58" y="96">固定 F 下 η_avg↑ → 全经济 bit 产出 ↑ ≈ s_A·π_A，所有人受益于更便宜的计算，无对手方损失</text>
+<rect fill="#fae7d6" height="60" rx="10" stroke="#993c1d" stroke-width="0.5" width="600" x="40" y="122"></rect>
+<text fill="#712b13" font-size="13" font-weight="500" x="58" y="146">② 持有者再分配 · 本币外部性</text>
+<text fill="#444441" font-size="11" x="58" y="168">比特持有者 −s_A·π_A，焦耳持有者 +s_A·π_A，零和转移，规模 = s_A·π_A，仅在本币异质时成真</text>
+<rect fill="#fbe7d6" height="60" rx="10" stroke="#993c1d" stroke-width="0.5" width="600" x="40" y="194"></rect>
+<text fill="#712b13" font-size="13" font-weight="500" x="58" y="218">③ 生产者竞争 · 市场结构</text>
+<text fill="#444441" font-size="11" x="58" y="240">高效者低 P_A 压低市场 bit 价 → 侵蚀低效生产者铸币溢价，战略效应，非纯再分配</text>
+<rect fill="#e6f1fb" height="74" rx="10" stroke="#185fa5" stroke-width="0.5" width="290" x="40" y="278"></rect>
+<text fill="#0c447c" font-size="13" font-weight="500" x="58" y="302">焦耳本位 = 外生无关</text>
+<text fill="#444441" font-size="11" x="58" y="324">M_J = F 固定，η 不进入 →</text>
+<text fill="#444441" font-size="11" x="58" y="342">零外部性，但单位不反映计算效率</text>
+<rect fill="#fcebeb" height="74" rx="10" stroke="#a32d2d" stroke-width="0.5" width="290" x="350" y="278"></rect>
+<text fill="#791f1f" font-size="13" font-weight="500" x="368" y="302">比特本位 = 携带再分配</text>
+<text fill="#444441" font-size="11" x="368" y="324">M_B = F·η_avg 随 η 扩张 →</text>
+<text fill="#444441" font-size="11" x="368" y="342">反映生产力，但内含外部性</text>
+</svg>

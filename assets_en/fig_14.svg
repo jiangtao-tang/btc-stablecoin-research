@@ -1,0 +1,43 @@
+<svg font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" viewBox="0 0 680 540" xmlns="http://www.w3.org/2000/svg">
+<text fill="#1a1a1a" font-size="14" font-weight="600" x="20" y="22">Fig. 14: Observability of Synchronized Generational Waves—Separating Pulses from the Logistic Background on the Real π_B Curve</text>
+<rect fill="#fcfbf7" height="225" stroke="#d3d1c7" width="640" x="20" y="35"></rect>
+<text fill="#0c447c" font-size="12" font-weight="600" x="35" y="55">① Signal decomposition: real π_B = Logistic background + synchronized pulse (orange vertical lines = generational-change instants t_j)</text>
+<line stroke="#999" stroke-width="1" x1="60" x2="60" y1="65" y2="247"></line>
+<line stroke="#999" stroke-width="1" x1="60" x2="635" y1="247" y2="247"></line>
+<text fill="#5f5e5a" font-size="10" transform="rotate(-90 13 160)" x="13" y="160">π_B (inflation rate)</text>
+<text fill="#5f5e5a" font-size="10" x="338" y="263">Time (years)</text>
+<text fill="#5f5e5a" font-size="9" x="55" y="261">0</text>
+<text fill="#5f5e5a" font-size="9" x="197" y="261">5</text>
+<text fill="#5f5e5a" font-size="9" x="336" y="261">10</text>
+<polyline fill="none" points="60,63 116,77 172,117 200,157 228,183 284,217 340,237" stroke="#2c7a4f" stroke-dasharray="6 4" stroke-width="2"></polyline>
+<text fill="#2c7a4f" font-size="10" x="352" y="75">Logistic background π_logistic</text>
+<polyline fill="none" points="60,83 116,97 172,123 144,183 158,150 200,183 228,197 242,230 256,203 284,217 312,250 326,233 340,237" stroke="#333" stroke-width="2"></polyline>
+<text fill="#333" font-size="10" x="430" y="232">True π_B* (with pulses, noise)</text>
+<line stroke="#c0562b" stroke-dasharray="3 3" stroke-width="1.5" x1="144" x2="144" y1="62" y2="247"></line>
+<line stroke="#c0562b" stroke-dasharray="3 3" stroke-width="1.5" x1="242" x2="242" y1="62" y2="247"></line>
+<line stroke="#c0562b" stroke-dasharray="3 3" stroke-width="1.5" x1="312" x2="312" y1="62" y2="247"></line>
+<text fill="#c0562b" font-size="9" x="139" y="60">t₁</text>
+<text fill="#c0562b" font-size="9" x="237" y="60">t₂</text>
+<text fill="#c0562b" font-size="9" x="307" y="60">t₃</text>
+<rect fill="#fcfbf7" height="245" stroke="#d3d1c7" width="640" x="20" y="275"></rect>
+<text fill="#0c447c" font-size="12" font-weight="600" x="35" y="295">② The cross-system calibration of synchronized share ρ_sync: the ρ* critical line separates "pulse-dominant" from "background-dominant"</text>
+<line stroke="#999" stroke-width="1" x1="60" x2="60" y1="315" y2="505"></line>
+<line stroke="#999" stroke-width="1" x1="60" x2="635" y1="505" y2="505"></line>
+<text fill="#5f5e5a" font-size="10" transform="rotate(-90 13 415)" x="13" y="415">ρ_sync (synchronized-pulse share)</text>
+<text fill="#5f5e5a" font-size="9" x="46" y="509">0</text>
+<text fill="#5f5e5a" font-size="9" x="40" y="412">0.5</text>
+<text fill="#5f5e5a" font-size="9" x="46" y="319">1</text>
+<line stroke="#a32d2d" stroke-dasharray="6 4" stroke-width="1.5" x1="60" x2="635" y1="391" y2="391"></line>
+<text fill="#a32d2d" font-size="10" x="540" y="385">Critical ρ* = 0.6</text>
+<circle cx="150" cy="344" fill="#a32d2d" r="6"></circle>
+<text fill="#333" font-size="10" x="118" y="336">BTC mining</text>
+<text fill="#5f5e5a" font-size="9" x="116" y="361">ρ≈ 0.85 (high sync)</text>
+<circle cx="350" cy="448" fill="#2c7a4f" r="6"></circle>
+<text fill="#333" font-size="10" x="320" y="440">Cloud computing-power market</text>
+<text fill="#5f5e5a" font-size="9" x="312" y="465">ρ≈ 0.30 (low sync)</text>
+<circle cx="520" cy="400" fill="#888" r="6" stroke="#333" stroke-dasharray="2 2"></circle>
+<text fill="#333" font-size="10" x="495" y="392">Agent economy</text>
+<text fill="#5f5e5a" font-size="9" x="488" y="417">ρ = ? (pending calibration)</text>
+<text fill="#a32d2d" font-size="10" x="80" y="332">Pulse-dominant zone</text>
+<text fill="#2c7a4f" font-size="10" x="415" y="500">Background-dominant zone</text>
+</svg>

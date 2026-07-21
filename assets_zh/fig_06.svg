@@ -1,0 +1,18 @@
+<svg role="img" viewBox="0 0 680 280" width="100%" xmlns="http://www.w3.org/2000/svg">
+<title>算法稀缺与物理层的正交性</title>
+<text fill="#0c447c" font-size="15" font-weight="500" text-anchor="middle" x="340" y="24">算法稀缺与物理层的正交性</text>
+<rect fill="#e6f1fb" height="190" rx="10" stroke="#185fa5" stroke-width="0.5" width="290" x="40" y="50"></rect>
+<text fill="#0c447c" font-size="14" font-weight="500" text-anchor="middle" x="185" y="78">物理层（不可改）</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="110">η(t) Logistic 增长</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="135">π(t) = λ(1−η/η_L)</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="160">Landauer 收敛</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="185" y="185">三阶段演化</text>
+<rect fill="#fae7d6" height="190" rx="10" stroke="#993c1d" stroke-width="0.5" width="290" x="350" y="50"></rect>
+<text fill="#712b13" font-size="14" font-weight="500" text-anchor="middle" x="495" y="78">映射/制度层（人为）</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="110">选择 bit 或 joule 本位</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="135">BTC 21M 封顶</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="160">铸币期供应增长表</text>
+<text fill="#444441" font-size="12" text-anchor="middle" x="495" y="185">强制锁定焦耳侧</text>
+<path d="M330 145 L350 145" stroke="#888780" stroke-dasharray="5 4" stroke-width="1"></path>
+<text fill="#5f5e5a" font-size="12" text-anchor="middle" x="340" y="258">封顶只改制度层，不动物理层；铸币期延缓通缩，铸币完成后与纯焦耳本位重合</text>
+</svg>

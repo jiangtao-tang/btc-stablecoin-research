@@ -1,0 +1,44 @@
+<svg viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="d3_arr0" markerheight="6" markerwidth="6" orient="auto-start-reverse" refx="9" refy="5" viewBox="0 0 10 10">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#185fa5"></path>
+</marker>
+</defs>
+<text fill="#0c447c" font-size="16" font-weight="600" text-anchor="middle" x="340" y="28">Argument structure: from problem to solution</text>
+ Step 1: The Problem 
+<rect fill="#fcebeb" height="80" rx="10" stroke="#a32d2d" stroke-width="1.5" width="200" x="20" y="60"></rect>
+<text fill="#791f1f" font-size="14" font-weight="600" text-anchor="middle" x="120" y="92">η three-dimensional heterogeneity</text>
+<text fill="#791f1f" font-size="11" text-anchor="middle" x="120" y="112">Time / agent / device</text>
+<text fill="#791f1f" font-size="11" text-anchor="middle" x="120" y="128">→ Is the joule stable or not?</text>
+ Step 2: Core Insight 
+<rect fill="#fff3cd" height="80" rx="10" stroke="#d39e00" stroke-width="1.5" width="200" x="240" y="60"></rect>
+<text fill="#6b5400" font-size="13" font-weight="600" text-anchor="middle" x="340" y="86">The separation principle</text>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="340" y="106">Account ≠ medium</text>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="340" y="124">Account = joule (invariant)</text>
+<text fill="#6b5400" font-size="11" text-anchor="middle" x="340" y="140">Medium = any token</text>
+ Step 3: Key Design 
+<rect fill="#eaf3de" height="80" rx="10" stroke="#3b6d11" stroke-width="1.5" width="200" x="460" y="60"></rect>
+<text fill="#27500a" font-size="13" font-weight="600" text-anchor="middle" x="560" y="86">J-ST</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="560" y="106">Joule pricing</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="560" y="124">+ BTC floor collateral</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="560" y="140">+ decentralized custody</text>
+<!-- Arrows -->
+<line marker-end="url(#d3_arr0)" stroke="#185fa5" stroke-width="1.5" x1="220" x2="240" y1="100" y2="100"></line>
+<line marker-end="url(#d3_arr0)" stroke="#185fa5" stroke-width="1.5" x1="440" x2="460" y1="100" y2="100"></line>
+ Step 4: Theoretical Restructuring 
+<rect fill="#e6f1fb" height="80" rx="10" stroke="#185fa5" stroke-width="1.5" width="200" x="130" y="180"></rect>
+<text fill="#0c447c" font-size="13" font-weight="600" text-anchor="middle" x="230" y="206">BTC repositioned</text>
+<text fill="#0c447c" font-size="11" text-anchor="middle" x="230" y="226">Thermodynamic receipt</text>
+<text fill="#0c447c" font-size="11" text-anchor="middle" x="230" y="244">= energy fossil</text>
+<text fill="#0c447c" font-size="11" text-anchor="middle" x="230" y="260">Distributed joule storage pool</text>
+ Step 5: Deployment 
+<rect fill="#eaf3de" height="80" rx="10" stroke="#3b6d11" stroke-width="1.5" width="200" x="350" y="180"></rect>
+<text fill="#27500a" font-size="13" font-weight="600" text-anchor="middle" x="450" y="206">Phase 1 feasible immediately</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="450" y="226">Joule denomination</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="450" y="244">+ BTC as non-custody</text>
+<text fill="#27500a" font-size="11" text-anchor="middle" x="450" y="260">No new infrastructure</text>
+<!-- Arrow from 3 to 4 and 5 -->
+<line marker-end="url(#d3_arr0)" stroke="#185fa5" stroke-width="1.2" x1="490" x2="300" y1="140" y2="180"></line>
+<line marker-end="url(#d3_arr0)" stroke="#185fa5" stroke-width="1.2" x1="580" x2="500" y1="140" y2="180"></line>
+<text fill="#5f5e5a" font-size="12" font-style="italic" text-anchor="middle" x="340" y="300">Figure 19 Argument structure: starting from η heterogeneity, via the separation principle and J-ST design, landing on BTC repositioning and Phase 1 practice</text>
+</svg>
