@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" font-family="-apple-system,'Segoe UI','Microsoft YaHei',sans-serif">
+  <rect x="0" y="0" width="720" height="430" fill="#ffffff"/>
+
+  <text x="360" y="32" text-anchor="middle" font-size="17" font-weight="bold" fill="#0b5fa5">量子攻击面：比特币两条加密支柱 → 我们的 P_floor 参数</text>
+  <text x="360" y="54" text-anchor="middle" font-size="12" fill="#666">PoW / SHA-256 抗 Grover（相对免疫） vs 签名 / ECDSA 受 Shor 威胁（脆弱）</text>
+
+  <!-- 左框：PoW / SHA-256 -->
+  <rect x="30" y="78" width="310" height="200" rx="8" fill="#eef5fb" stroke="#0b5fa5" stroke-width="2"/>
+  <text x="185" y="102" text-anchor="middle" font-size="14" font-weight="bold" fill="#0b5fa5">工作量证明 PoW / SHA-256（挖矿函数）</text>
+  <text x="46" y="128" font-size="12.5" fill="#222">量子算法：Grover</text>
+  <text x="46" y="150" font-size="12.5" fill="#222">加速：仅二次 O(√N)</text>
+  <text x="46" y="172" font-size="12.5" fill="#222">抗量子：相对免疫</text>
+  <text x="46" y="194" font-size="11.5" fill="#555">（ASIC 速度压制，Aggarwal 2018）</text>
+  <text x="46" y="222" font-size="12.5" fill="#222">对 P_floor：</text>
+  <text x="46" y="242" font-size="12.5" fill="#222">ε 不受影响；H 不被直接削弱</text>
+  <text x="185" y="268" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e7d34">→ 稳定</text>
+
+  <!-- 右框：ECDSA -->
+  <rect x="380" y="78" width="310" height="200" rx="8" fill="#fdeef0" stroke="#c0392b" stroke-width="2"/>
+  <text x="535" y="102" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">椭圆曲线签名 ECDSA（所有权）</text>
+  <text x="396" y="128" font-size="12.5" fill="#222">量子算法：Shor</text>
+  <text x="396" y="150" font-size="12.5" fill="#222">加速：指数级（离散对数）</text>
+  <text x="396" y="172" font-size="12.5" fill="#222">抗量子：脆弱</text>
+  <text x="396" y="194" font-size="11.5" fill="#555">（最乐观 2027 前 &lt;10min 破公钥）</text>
+  <text x="396" y="222" font-size="12.5" fill="#222">对 H：经 窃币 → 价格崩</text>
+  <text x="396" y="242" font-size="12.5" fill="#222">→ 矿工关机（间接、不连续）</text>
+  <text x="535" y="268" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">→ H 断崖风险</text>
+
+  <defs>
+    <marker id="ah-green" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#1e7d34"/>
+    </marker>
+    <marker id="ah-red" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <line x1="185" y1="280" x2="185" y2="298" stroke="#1e7d34" stroke-width="2" marker-end="url(#ah-green)"/>
+  <line x1="535" y1="280" x2="535" y2="298" stroke="#c0392b" stroke-width="2" stroke-dasharray="5,4" marker-end="url(#ah-red)"/>
+
+  <!-- 底部带：我们的 P_floor 参数 -->
+  <rect x="30" y="300" width="660" height="110" rx="8" fill="#f3f6f9" stroke="#d9d9d9" stroke-width="1.5"/>
+  <text x="46" y="326" font-size="13" font-weight="bold" fill="#0b5fa5">我们的 P_floor 参数（经典 ASIC 校准）</text>
+  <text x="46" y="350" font-size="12.5" fill="#222">ε（能效）：量子不改善 Koomey，反而可能抬高（容错纠错开销 &gt; Landauer 限 kT·ln2）</text>
+  <text x="46" y="374" font-size="12.5" fill="#222">H（算力）：非内在减少；唯一真实威胁 = Shor→ECDSA 间接路径</text>
+  <text x="46" y="398" font-size="12.5" fill="#222">缓解：后量子签名（Falcon / Dilithium）软分叉可化解 ECDSA 威胁</text>
+</svg>
